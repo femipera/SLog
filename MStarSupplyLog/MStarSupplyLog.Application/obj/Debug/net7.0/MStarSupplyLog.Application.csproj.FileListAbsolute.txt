@@ -1,0 +1,15 @@
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\bin\Debug\net7.0\MStarSupplyLog.Application.deps.json
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\bin\Debug\net7.0\MStarSupplyLog.Application.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\bin\Debug\net7.0\MStarSupplyLog.Application.pdb
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\MStarSupplyLog.Application.csproj.AssemblyReference.cache
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\MStarSupplyLog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\MStarSupplyLog.Application.AssemblyInfoInputs.cache
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\MStarSupplyLog.Application.AssemblyInfo.cs
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\MStarSupplyLog.Application.csproj.CoreCompileInputs.cache
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\MStarSupplyLog.Application.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\refint\MStarSupplyLog.Application.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\MStarSupplyLog.Application.pdb
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\ref\MStarSupplyLog.Application.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\bin\Debug\net7.0\MStarSupplyLog.Domain.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\bin\Debug\net7.0\MStarSupplyLog.Domain.pdb
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Application\obj\Debug\net7.0\MStarSupplyLog.Application.csproj.CopyComplete

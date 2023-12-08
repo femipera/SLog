@@ -1,0 +1,2 @@
+C:\Users\figue\source\repos\MStarSupplyLogFrontReact\MStarSupplyLogFrontReact\obj\Debug\mstarsupplylogfrontreact.esproj.SuggestedBindingRedirects.cache
+C:\Users\figue\source\repos\MStarSupplyLogFrontReact\MStarSupplyLogFrontReact\obj\Debug\mstarsupplylogfrontreact.esproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKbqa+o4vtY7y+L6mH7q5pI5IAEEus4Jmq40DAOQTkc32HBycb7CQo1d5FTkkSo9mm7hamBTOtbJImLMBdwoMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\figue\\source\\repos\\MStarSupplyLog\\MStarSupplyLog.Application\\MStarSupplyLog.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\figue\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\figue\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

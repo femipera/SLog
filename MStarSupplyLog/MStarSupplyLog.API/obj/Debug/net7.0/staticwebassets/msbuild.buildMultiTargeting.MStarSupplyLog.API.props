@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MStarSupplyLog.API.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\bin\Debug\net7.0\MStarSupplyLog.Infra.Data.deps.json
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\bin\Debug\net7.0\MStarSupplyLog.Infra.Data.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\bin\Debug\net7.0\MStarSupplyLog.Infra.Data.pdb
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.AssemblyInfo.cs
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\refint\MStarSupplyLog.Infra.Data.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.pdb
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\ref\MStarSupplyLog.Infra.Data.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\bin\Debug\net7.0\MStarSupplyLog.Infra.Data.runtimeconfig.json
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\bin\Debug\net7.0\MStarSupplyLog.Domain.dll
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\bin\Debug\net7.0\MStarSupplyLog.Domain.pdb
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.csproj.CopyComplete
+C:\Users\figue\source\repos\MStarSupplyLog\MStarSupplyLog.Infra.Data\obj\Debug\net7.0\MStarSupplyLog.Infra.Data.genruntimeconfig.cache
